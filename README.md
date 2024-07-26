@@ -65,4 +65,4 @@ Após terminar o desafio, caso você queira, você pode tentar dar o próximo pa
 
 Abaixo você também pode assistir um vídeo que gravamos para fazer um onboarding no fluxo da aplicação e dar várias dicas para desenvolver as funcionalidades e o layout:
 
-![Ignite React | Onboarding - Desafio 01](https://youtu.be/9La-Sj-c1ns)
+https://youtu.be/9La-Sj-c1ns
